@@ -1,4 +1,4 @@
-JetSchedulerEvalFramework
+FlightSchedulerEvalFramework
 --
 MetricsEvaluator.py simulates each JetScheduler and evaluates the following metrics:
 1. Total unfulfilled requests per day:
